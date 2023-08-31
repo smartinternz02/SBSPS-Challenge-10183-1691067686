@@ -1,0 +1,3 @@
+Kindly, run the "app.py" file in the terminal.
+
+Data Preprocessing, Data Analysis and Modelling have been done in the "model.ipynb" file.
